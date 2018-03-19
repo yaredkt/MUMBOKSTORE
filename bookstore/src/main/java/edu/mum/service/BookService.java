@@ -1,5 +1,5 @@
 package edu.mum.service;
 
-public class BookService {
+public interface BookService {
 
 }
