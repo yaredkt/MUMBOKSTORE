@@ -2,6 +2,6 @@ package edu.mum.domain;
 
 public class Book {
 	
- int x;
+ int x = 0;
 
 }
